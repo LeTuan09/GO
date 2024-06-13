@@ -1,0 +1,10 @@
+server: 
+  port: 14447
+database: 
+  user: admin
+  password: thaco@123
+  host: localhost
+  dbName: database
+security:
+  jwt: 
+    key: TuanZin
